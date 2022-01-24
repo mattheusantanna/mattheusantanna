@@ -5,7 +5,7 @@
 
 💻  Minha stack: HTML, CSS e JavaScript
 
-📖  Estudando: Bootstrap, Scss, Node.Js, MongoDB, ReactJs e Typescript
+📖  Estudando: React, JQuery e Typescript
 
 📫  Para entrar em contato comigo:
 
