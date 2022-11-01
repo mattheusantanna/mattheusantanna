@@ -5,7 +5,7 @@
 
 💻  Minha stack: HTML, CSS e JavaScript
 
-📖  Estudando: React, JQuery e Typescript
+📖  Estudando: React, JQuery e Node
 
 📫  Para entrar em contato comigo:
 
