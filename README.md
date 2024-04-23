@@ -1,11 +1,9 @@
  ## Olá <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35" >, me chamo Matheus Santana!
-## Desenvolvedor em aplicações  Web 👨‍💻
+## Desenvolvedor .NET 👨‍💻
 
 🚀  Se aperfeiçoando dia após dia com bons projetos desafiadores!
 
-💻  Minha stack: HTML, CSS e JavaScript
-
-📖  Estudando: React, JQuery e Node
+💻  Minha stack: .NET | C#
 
 📫  Para entrar em contato comigo:
 
